@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Medhat</h1>
 <h3 align="center">Aspiring Software Engineer 👨‍💻</h3>
 
-- 🌱 Currently learning **Python**
+- 🌱 Currently learning **Django**
   
-- 👨‍💻 Currently working as a Mentor at Harduino ...
+- 👨‍💻 Currently working on EduTech websites ...
 
 - 💬 Ask me about **any thing you want**
 
